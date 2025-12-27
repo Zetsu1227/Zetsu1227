@@ -1,10 +1,11 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <h1 style="display: inline-block">Hello World! <img height="40" width="40" src="assets/hello.gif" width="300"/> </h1>
+    <h1 style="display: inline-block">Hello World! <img height="40" width="40" src="assets/hello.gif"/> </h1>
     
 </div>
 
+<img height="500" width="500" src="assets/linha.gif"/> <img height="500" width="500" src="assets/linha.gif"/>
 <!-- Presentation -->
 <p>
   Wassup 👌👌, sou Eduardo! Um determinado estudante de Ciência da Computação
@@ -13,12 +14,13 @@
 
   - 🔭 Busco melhorar minhas habilidades em programação e em ferramentas para logo procurar um emprego
 </p>
-
+<br>
 <!-- Dropdown -->
 <details>
   <summary>🧩 Mais sobre mim</summary>
-
+<br>  
   - 💬 Tenho 19 anos e tenho fluência em inglês. Além disso, tenho experiência com C e C++.
+<br><br>
   - ⚡ Curto video-games e adoro jogar jogos de tabuleiro/cartas com meus amigos! Na minha opinião, os nossos interesses pessoas contribuem para uma percepção mais refinada da nossa capacidade de perceber e de resolver problemas. uWu
    <!-- tenho que colocar mais coisa aqui ao longo dos anos>  -->
 </details>
@@ -26,14 +28,19 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-pires-cs/)
 
+
 <!-- GithubStats -->
 <!-- colocar mais coisa no futuro :)>  --> 
-<br><br>
+<br>
+
 <!-- Portfolio -->
 ## Portfolio:
 - [Meu aprendizado na facul](https://github.com/Zetsu1227/portfolio-eduardo-pires)
 
-<br><br>
+<br>
+<img height="500" width="500" src="assets/loop.gif"/>
+<br>
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -51,5 +58,10 @@
     <img align="center" alt="Visual Studio" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
     <img align="center" alt="GitHub Desktop" height="50" width="40" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">
     <img align="center" alt="Ubuntu" height="50" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png">
+
+<br>
+<img height="500" width="500" src="assets/linha.gif"/> <img height="500" width="500" src="assets/linha.gif"/>
+<br>
+    
   </div>
   
