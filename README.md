@@ -1,14 +1,54 @@
-## Olá Mundo!
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary> 
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiZetsu1227anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Presentation -->
+<p>
+  Wassup 👌👌, sou Eduardo! Um determinado estudante de Ciência da Computação
 
+  - 🌱Atualmente, estou estudando na UFRGS <img align="center" alt="html5" width = "40" src="https://www.ufrgs.br/ingresso/wp-content/uploads/2017/11/cropped-UFRGSBranco-4.png" />
 
+  - 🔭 Busco melhorar minhas habilidades em programação e em ferramentas para logo procurar um emprego
+</p>
 
-Here are some ideas to get you started:
+<!-- Dropdown -->
+<details>
+  <summary>🧩 Mais sobre mim</summary>
 
-- 🔭 Estudante de Ciência da Computação na UFRGS
-- 🌱 Estudando C++
+  - 💬 Tenho 19 anos e tenho fluência em inglês. Além disso, tenho experiência com C e C++.
+  - ⚡ Curto video-games e adoro jogar jogos de tabuleiro/cartas com meus amigos! Na minha opinião, os nossos interesses pessoas contribuem para uma percepção mais refinada da nossa capacidade de perceber e de resolver problemas. uWu
+   <!-- tenho que colocar mais coisa aqui ao longo dos anos>  -->
+</details>
 
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-pires-cs/)
 
+<!-- GithubStats -->
+<!-- colocar mais coisa no futuro :)>  --> 
+<br><br>
+<!-- Portfolio -->
+## Portfolio:
+- [Meu aprendizado na facul](https://github.com/Zetsu1227/portfolio-eduardo-pires)
 
--->
+<br><br>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens</h3>
+    <img align="center" alt="C++" height="40" width="40" src="https://avatars.githubusercontent.com/u/59276?s=280&v=4">
+    <img align="center" alt="C" height="45" width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+  </div>
+  
+  <br>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Ferramentas</h3>
+    <img align="center" alt="Visual Studio" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
+    <img align="center" alt="GitHub Desktop" height="50" width="40" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">
+    <img align="center" alt="Ubuntu" height="50" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png">
+  </div>
+  
