@@ -1,7 +1,8 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary> 
+    <h1 style="display: inline-block">Hello World! <img height="40" width="40" src="assets/hello.gif" width="300"/> </h1>
+    
 </div>
 
 <!-- Presentation -->
