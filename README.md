@@ -19,7 +19,7 @@
 <details>
   <summary>🧩 Mais sobre mim</summary>
 <br>  
-  - 💬 Tenho 19 anos e tenho fluência em inglês. Além disso, tenho experiência com C e C++.
+  - 💬 Tenho 20 anos e tenho fluência em inglês. Além disso, tenho experiência com C e C++.
 <br><br>
   - ⚡ Curto video-games e adoro jogar jogos de tabuleiro/cartas com meus amigos! Na minha opinião, os nossos interesses pessoas contribuem para uma percepção mais refinada da nossa capacidade de perceber e de resolver problemas. uWu
    <!-- tenho que colocar mais coisa aqui ao longo dos anos>  -->
@@ -46,21 +46,24 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Linguagens</h3>
-    <img align="center" alt="C++" height="40" width="40" src="https://avatars.githubusercontent.com/u/59276?s=280&v=4">
-    <img align="center" alt="C" height="45" width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+    <td width="50%" align="center">
+      <h3>Linguagens</h3>
+      <img alt="C++" height="45" src="https://avatars.githubusercontent.com/u/59276?s=280&v=4">
+      <img alt="C" height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+    </td>
+
   </div>
   
   <br>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Ferramentas</h3>
-    <img align="center" alt="Visual Studio" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
-    <img align="center" alt="GitHub Desktop" height="50" width="40" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">
-    <img align="center" alt="Ubuntu" height="50" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png">
-
-<br>
+  <td width="50%" align="center">
+      <h3>Ferramentas</h3>
+      <img alt="Visual Studio" height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"> 
+      <img alt="GitHub Desktop" height="50" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">
+    </td>
+  <br>
 <img height="500" width="500" src="assets/linha.gif"/> <img height="500" width="500" src="assets/linha.gif"/>
 <br>
     
