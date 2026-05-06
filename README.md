@@ -50,6 +50,8 @@
       <h3>Linguagens</h3>
       <img alt="C++" height="45" src="https://avatars.githubusercontent.com/u/59276?s=280&v=4">
       <img alt="C" height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+      <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img alt="TypeScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     </td>
 
   </div>
@@ -62,7 +64,11 @@
       <h3>Ferramentas</h3>
       <img alt="Visual Studio" height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"> 
       <img alt="GitHub Desktop" height="50" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">
-    </td>
+      <img alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      <img alt="Node.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      
+    
+  </td>
   <br>
 <img height="500" width="500" src="assets/linha.gif"/> <img height="500" width="500" src="assets/linha.gif"/>
 <br>
