@@ -8,20 +8,21 @@
 <img height="500" width="500" src="assets/linha.gif"/> 
 <!-- Presentation -->
 <p>
-  Wassup 👌👌, sou Eduardo! Um determinado estudante de Ciência da Computação
+  Wazzup 👌, I'm Eduardo! A determined Computer Science student.
 
-  - 🌱Atualmente, estou estudando na UFRGS <img align="center" alt="html5" width = "40" src="https://www.ufrgs.br/ingresso/wp-content/uploads/2017/11/cropped-UFRGSBranco-4.png" />
+  - 🌱I am currently studying at UFRGS.
+ <img align="center" alt="html5" width = "40" src="assets/ufrgs-logo.png" />
 
-  - 🔭 Busco melhorar minhas habilidades em programação e em ferramentas para logo conseguir um estágio
+  - 🔭 I am looking to improve my programming skills and proficiency with tools so I can land an internship soon.
 </p>
 <br>
 <!-- Dropdown -->
 <details>
-  <summary>🧩 Mais sobre mim</summary>
+  <summary>🧩 More about me </summary>
 <br>  
-  - 💬 Eu tenho 20 anos, e gosto de participar de rodas de conversas em inglês.
+  - 💬 I am 20 years old, and I enjoy participating in English conversation circles.
 <br><br>
-  - ⚡ Curto video-games e adoro jogar jogos de tabuleiro/cartas com meus amigos! Na minha opinião, os nossos interesses pessoas contribuem para uma percepção mais refinada da nossa capacidade de perceber e de resolver problemas. uWu
+  - ⚡ I enjoy video games and love playing board games or card games with my friends! In my opinion, our personal interests contribute to a more refined perception of our ability to perceive and solve problems. uWu
    <!-- tenho que colocar mais coisa aqui ao longo dos anos>  -->
 </details>
 
@@ -36,7 +37,7 @@
 
 <!-- Portfolio -->
 ## 🛠 Portfolio
-- [Meu aprendizado na facul](https://github.com/Zetsu1227/portfolio-eduardo-pires)
+- [My learning experience in college](https://github.com/Zetsu1227/portfolio-eduardo-pires)
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -52,7 +53,7 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <td width="50%" align="center">
-      <h3>Linguagens</h3>
+      <h3>Programming languages</h3>
       <img alt="C++" height="45" src="https://avatars.githubusercontent.com/u/59276?s=280&v=4">
       <img alt="C" height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
       <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -67,7 +68,7 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
   <td width="50%" align="center">
-      <h3>Ferramentas</h3>
+      <h3>Tools</h3>
       <img alt="Visual Studio" height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"> 
       <img alt="GitHub Desktop" height="50" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">
       <img alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
