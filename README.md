@@ -69,7 +69,6 @@
   <td width="50%" align="center">
       <h3>Tools</h3>
       <img alt="Visual Studio" height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"> 
-      <img alt="GitHub Desktop" height="50" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">
       <img alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img alt="Node.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img alt="Node.js" height="45" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
